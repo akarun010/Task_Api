@@ -1,0 +1,6 @@
+target/
+.env
+*.pem
+.idea/
+*.iml
+.vscode/
