@@ -3,7 +3,7 @@
 A small Spring Boot 3 + MySQL REST API made for practicing deployment:
 Docker, Docker Compose, AWS EC2 and RDS.
 
-## Endpoints
+## Endpoints 
 
 | Method | Path | Description |
 |--------|------|-------------|
